@@ -15,7 +15,7 @@ import com.crm.qa.util.TestUtil;
 public class TestBase {
 	
 	//Global variables so that all the child classes can inherit the properties of the parent class
-	//added
+	
 	
 	public static WebDriver driver;
 	public static Properties prop;

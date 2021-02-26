@@ -12,5 +12,9 @@ public class TestUtil extends TestBase{
 	public void switchToFrame() {
 		driver.switchTo().frame("mainpanel");
 		
+		//public static void equals(String reason, String actual, String expected){
+		//if(!actual.equalsIgnoreCase(expected)) {
+//		throw new RuntimeException(reason);}}
+		
 	}
 }
